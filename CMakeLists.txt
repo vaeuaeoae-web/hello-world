@@ -1,3 +1,4 @@
+#大作业
 cmake_minimum_required(VERSION 3.16)
 project(MusicPlayer VERSION 1.0 LANGUAGES CXX)
 
